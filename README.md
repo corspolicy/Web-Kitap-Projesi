@@ -106,21 +106,25 @@ Ana sayfada bulunan "Sepete Ekle" butonlarına tıklayarak ürünleri sepete ekl
 
 **Ana Sayfa (index.html)**
 
-![ana-sayfa sc1](https://github.com/user-attachments/assets/580613b8-19e8-4cb1-a82b-801b17eeb791)
-
+![ana sayfa](https://github.com/user-attachments/assets/97de5799-311f-4b7d-95a3-5e04cf61d394)
 
 **Sepet Sayfası (sepet.html)**
 
-![sepet-sayfası](https://github.com/user-attachments/assets/581b7191-7c44-43e3-84d5-7f0780b16cfb)
+![sepet](https://github.com/user-attachments/assets/31db5360-755f-46c9-a5a6-41bcd01a9d47)
+
 
 **Kayıt Ol Sayfası (kayıtol.html)**
 
-![kayıt-ol](https://github.com/user-attachments/assets/6c22e37b-db4e-471d-8b64-95b4731e917f)
+![kayıt olma](https://github.com/user-attachments/assets/b44d7cd6-903d-42a6-b69e-bf5475ab68df)
 
 
 **Giriş Yap Sayfası (girisyap.html)**
 
-![giris-yap](https://github.com/user-attachments/assets/8423c92f-f51e-4919-9826-30a338af9914)
+![giris yap](https://github.com/user-attachments/assets/000a0bba-476a-4078-b03c-c56e5711bee0)
+
+**Hakkımızda Sayfası (hakkımızda.html)**
+
+![hakkımızda](https://github.com/user-attachments/assets/829fdef4-7825-41cb-9e33-2462bfb62435)
 
 
 ## Sosyal Medya Bağlantıları
