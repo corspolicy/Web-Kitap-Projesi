@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kayıt Ol!</title>
+    <title>Kayıt Ol | Taşçı Yayıncılık</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 
 <body>
-
     <nav class="navbar">
         <div class="logo">
             <a href="index.html">
@@ -18,35 +17,35 @@
             </a>
         </div>
         <div class="auth-container">
-            <button class="auth-button">
-                <a href="girisyap.html"><i class="fa fa-sign-in-alt"></i>GİRİŞ YAP</a>
-            </button>
+            <a href="girisyap.html">
+                <button class="auth-button">
+                    <i class="fa fa-sign-in-alt"></i>GİRİŞ YAP
+                </button>
+            </a>
         </div>
     </nav>
     <hr>
 
     <div class="form">
-        <h3>Hoş Geldin!</h3>
+        <h3>Aramıza Katılın</h3>
         <form action="#">
-            <label for="ad">Adınızı Giriniz</label>
-            <br><br>
-            <input type="text" name="ad" id="ad" placeholder="Adınızı Giriniz!" required>
-            <label for="soyad" style="margin-top: 15px;">Soy Adınızı Giriniz</label>
-            <br><br>
-            <input type="text" name="soyad" id="soyad" placeholder="Soy Adınızı Giriniz!" required>
-            <label for="email" style="margin-top: 15px;">E-Posta</label>
-            <br><br>
-            <input type="email" name="email" id="email" placeholder="youremail@gmail.com" maxlength="40" required>
-            <br><br>
+            <label for="ad">Adınız</label>
+            <input type="text" name="ad" id="ad" placeholder="Adınızı giriniz" required>
+            
+            <label for="soyad">Soyadınız</label>
+            <input type="text" name="soyad" id="soyad" placeholder="Soyadınızı giriniz" required>
+            
+            <label for="email">E-Posta</label>
+            <input type="email" name="email" id="email" placeholder="E-posta adresinizi giriniz" maxlength="40" required>
+            
             <label for="password">Şifre</label>
-            <br><br>
-            <input type="password" name="password" id="password" placeholder="********" required minlength="10"
-                maxlength="20">
-            <br><br>
+            <input type="password" name="password" id="password" placeholder="Şifrenizi giriniz" required minlength="10" maxlength="20">
+            
             <input type="submit" value="Kayıt Ol">
-            <br><br>
-            <h4>Hesabın zaten var mı? <a href="girisyap.html">Giriş Yap!</a></h4>
+            
+            <h4>Hesabınız var mı? <a href="girisyap.html">Giriş Yap</a></h4>
         </form>
+    </div>
 </body>
 
 </html>
