@@ -128,7 +128,7 @@ Ana sayfada bulunan "Sepete Ekle" butonlarına tıklayarak ürünleri sepete ekl
 
 - [Instagram](https://instagram.com/alperaytasci)
 - [GitHub](https://github.com/alpperay)
-- [LinkedIn](https://linkedin.com/alperaytasci)
+- [LinkedIn](https://linkedin.com/in/alperaytasci)
 - [Twitter](https://x.com/alperaytasci)
 
 ## Geliştirici & Yazar
