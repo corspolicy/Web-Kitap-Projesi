@@ -106,26 +106,23 @@ Ana sayfada bulunan "Sepete Ekle" butonlarına tıklayarak ürünleri sepete ekl
 
 **Ana Sayfa (index.html)**
 
-![ana sayfa](https://github.com/user-attachments/assets/97de5799-311f-4b7d-95a3-5e04cf61d394)
+![anasayfa html](https://github.com/user-attachments/assets/ee0861a1-c81a-4a0f-8875-105a7bb9b2a3)
 
 **Sepet Sayfası (sepet.html)**
 
-![sepet](https://github.com/user-attachments/assets/31db5360-755f-46c9-a5a6-41bcd01a9d47)
-
+![sepet html](https://github.com/user-attachments/assets/7127590e-d4fd-4ca9-b5cc-ce4a18461a69)
 
 **Kayıt Ol Sayfası (kayıtol.html)**
 
-![kayıt olma](https://github.com/user-attachments/assets/b44d7cd6-903d-42a6-b69e-bf5475ab68df)
-
+![kayıtol html](https://github.com/user-attachments/assets/993399fc-a9b2-4c0a-b082-d6c4882e8594)
 
 **Giriş Yap Sayfası (girisyap.html)**
 
-![giris yap](https://github.com/user-attachments/assets/000a0bba-476a-4078-b03c-c56e5711bee0)
+![girisyap html](https://github.com/user-attachments/assets/10f6e0ac-e027-4faf-aa7c-61d648c7babe)
 
 **Hakkımızda Sayfası (hakkımızda.html)**
 
-![hakkımızda](https://github.com/user-attachments/assets/829fdef4-7825-41cb-9e33-2462bfb62435)
-
+![hakkimizda html](https://github.com/user-attachments/assets/e33b1d8b-4d8f-41f0-969a-256d10f1b5dd)
 
 ## Sosyal Medya Bağlantıları
 
